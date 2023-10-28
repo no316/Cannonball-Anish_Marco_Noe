@@ -47,4 +47,4 @@ public abstract class KinematicsEquations {
     public static double findRange(double v0, double angle, double g) {
         return (getVVertical(v0, 2, 2 * angle, 1)) / g;
     }
-}
+} System.out.println("efhpigwrtgpiuhrtiugjirwuthgiuhriubnvijrgnbiurhbggt");
